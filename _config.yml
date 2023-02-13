@@ -2,7 +2,7 @@ title: ImNO Symposium 2023
 preposition: ''
 description: >-
   Conference of ImNO in March in London, Ontario
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ImNO" # the subpath of your site, e.g. /blog
 url: "https://charlesycx.github.io/ImNO/" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
