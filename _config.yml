@@ -26,13 +26,13 @@ exclude:
 collections:
   talks:
     output: true
-    permalink: /:collection/:IMNO/
+    permalink: /talks/:title/
   speakers:
     output: true
-    permalink: /:collection/:title/
+    permalink: /speakers/:title/
   rooms:
     output: true
-    permalink: /:collection/:title/
+    permalink: /rooms/:title/
 
 defaults:
   - scope:
