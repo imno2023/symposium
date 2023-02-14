@@ -59,9 +59,9 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: Digital Society Switzerland
+      name: ImNO 2023 Symposium
       # img: ''
-      url: 'https://digitale-gesellschaft.ch/'
+      url: 'https://imno.ca/2023-symposium'
     links:
       - name: Program
         relative_url: /program/
