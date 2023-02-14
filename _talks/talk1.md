@@ -1,10 +1,10 @@
 ---
-name: ImNO Talk 1
+name: Keynote Session I — TBA
 speakers:
-  - Dr. Elvis Chen
+  - Karen Yeates, School of Medicine, Queen's University
 categories:
   - Cat B
-  - Talk
+  - Keynote
 ---
 
-Insert text here about symposium
+Keynote Session 1
