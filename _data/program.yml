@@ -8,6 +8,9 @@ days:
       - name: Opening Remarks
         time_start: '8:30'
         time_end: '8:45'
+      - name: Keynote Session I — TBA
+        time_start: '8:45'
+        time_end: '9:30'
       - name: Coffee Break
         time_start: '9:30'
         time_end: '9:45'
@@ -20,9 +23,15 @@ days:
       - name: Opening Remarks
         time_start: '8:30'
         time_end: '8:45'
+      - name: Keynote Session I — TBA
+        time_start: '8:45'
+        time_end: '9:30'
       - name: Coffee Break
         time_start: '9:30'
         time_end: '9:45'
       - name: Neuroimaging
         time_start: '10:45'
         time_end: '11:15'
+      - name: Reception and ImNO Jeopardy
+        time_start: '17:00'
+        time_end: '18:30'
