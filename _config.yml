@@ -103,7 +103,7 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Welcome to Imaging Network Ontario 2023!
+    - title: Welcome to Imaging Network Ontario 2023 Symposium!
       color: primary
       main_only: true
       text: |
