@@ -4,8 +4,6 @@ description: >-
   Conference of ImNO in March in London, Ontario
 baseurl: "/ImNO" # the subpath of your site, e.g. /blog
 url: "https://charlesycx.github.io/ImNO/" # the base hostname & protocol for your site, e.g. https://example.com
-    
-theme: jekyll-theme-conference
 
 # Build settings
 markdown: kramdown
