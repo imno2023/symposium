@@ -1,21 +1,21 @@
 days:
 - name: Thursday
-  abbr: 
+  abbr: Thu
   date: 2023-03-23
   rooms:
-  - name: Room A
+  - name: Ballroom Centre
     talks:
       - name: Opening Remarks
         time_start: '8:30'
         time_end: '8:45'
 
-  - name: Room B
+  - name: Ballroom East
     talks:
       - name: Opening Remarks
         time_start: '8:30'
         time_end: '8:45'
 
-  - name: Room A
+  - name: Ballroom Centre
     talks:
       - name: Pitch 1 - Ultrasound and Optical Imaging
         time_start: '10:45'
