@@ -1,4 +1,4 @@
 ---
-name: Ballroom East
+name: Room B
 hide: true
 ---
