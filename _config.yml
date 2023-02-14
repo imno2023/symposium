@@ -5,8 +5,6 @@ description: >-
 baseurl: "/ImNO" # the subpath of your site, e.g. /blog
 url: "https://charlesycx.github.io/ImNO/" # the base hostname & protocol for your site, e.g. https://example.com
 
-theme: jekyll-theme-conference
-
 # Build settings
 markdown: kramdown
 sass:
@@ -65,10 +63,10 @@ conference:
     show_firstname: true
 
   location:
-    url: '/location'
+    url: 'https://charlesycx.github.io/ImNO/location'
     map: true
 
   program:
-    url: '/program'
+    url: 'https://charlesycx.github.io/ImNO/program'
     time_steps: 15
     show_alltimes: true
