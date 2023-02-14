@@ -3,13 +3,13 @@ days:
   abbr: 
   date: 2023-03-23
   rooms:
-  - name: Ballroom Centre
+  - name: Room A
     talks:
       - name: Opening Remarks
         time_start: '8:30'
         time_end: '8:45'
 
-  - name: Ballroom East
+  - name: Room B
     talks:
       - name: Opening Remarks
         time_start: '8:30'
