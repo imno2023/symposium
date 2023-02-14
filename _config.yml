@@ -1,4 +1,4 @@
-title: Symposium 2023 - Imaging Network Ontario
+title: Imaging Network Ontario
 preposition: ''
 description: >-
   Conference of ImNO in March in London, Ontario
@@ -59,7 +59,7 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: ImNO
+      name: Symposium 2023
       # img: ''
       url: 'https://imno.ca/2023-symposium'
     links:
