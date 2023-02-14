@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: main
 ---
 Welcome to ImNO Symposium 2023!
 
