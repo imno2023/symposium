@@ -1,10 +1,9 @@
 ---
-name: Condimentum Vitae Sapien Pellentesque
+name: Opening Remarks
 speakers:
-  - Tolga Philip
-  - Alex Rosales
+  - Elvis Chen and Jessica Rodgers, ImNO 2023 Chairs
 categories:
   - Cat A
-  - Talk
+  - Opener
 hide: true
 ---
