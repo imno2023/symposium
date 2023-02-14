@@ -6,6 +6,6 @@ Below is the tentative Program of the 2023 ImNO Symposium!
 
 (If you are on a MOBILE device, please scroll left and right to view all the events)
 
-Starting 8:30am March 23, 2023
+Starting 8:30am March 23
 
 We hope you enjoy the symposium!
