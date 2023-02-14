@@ -2,4 +2,8 @@
 layout: program
 ---
 
-The main categories (or tracks) of the different talks as well as their coloring can be adapted in the `_config.yml` file under `conference.talks.main_categories`. See also the [Talk Settings](https://github.com/DigitaleGesellschaft/jekyll-theme-conference/#talk-settings-main-categories) section of the theme's README file.
+Below is the tentative Program of the 2023 ImNO Symposium! (If you are on a MOBILE device, please scroll left and right to view all the events)
+March 23-34, 2023
+8:30am to 6:30pm
+
+We hope you enjoy the symposium!
