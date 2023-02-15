@@ -153,6 +153,13 @@ conference:
         color: warning
       - name: Cat D
         color: alert
+      - name: Cat E
+        color: dark
+      - name: Cat E
+        color: primary
+      - name: Cat E
+        color: secondary
+        
 
     # Hide icons on talk overview page
     hide_icons: false
