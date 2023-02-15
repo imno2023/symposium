@@ -17,7 +17,7 @@ days:
       - name: Pitch 1 - Ultrasound and Optical Imaging
         time_start: '10:45'
         time_end: '11:15'
-      - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 1 & 2 presenting), Lunch Pickup
+      - name: Meet and Greet
         time_start: '11:15'
         time_end: '11:45:'
         
