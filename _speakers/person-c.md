@@ -1,6 +1,6 @@
 ---
-name: The Anonymous
-first_name: The
+name: TBA Anonymous
+first_name: TBA
 last_name: Anonymous
 hide: true
 ---
