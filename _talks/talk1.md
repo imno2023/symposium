@@ -3,7 +3,7 @@ name: Keynote Session I — TBA
 speakers:
   - Karen Yeates, School of Medicine, Queen's University
 categories:
-  - Cat B
+  - Cat F
   - Keynote
 ---
 
