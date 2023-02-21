@@ -1,7 +1,7 @@
 ---
 name: Oral 4 Image Guidance
 speakers:
-  - Oral 4 Image Guidance
+  - TBA
 categories:
   - Cat A
   - Opener
