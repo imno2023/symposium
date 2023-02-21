@@ -5,7 +5,7 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Oral
+      - name: Cat A
         color: info
       - name: Cat B
         color: success
