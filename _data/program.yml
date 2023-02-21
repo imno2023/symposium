@@ -17,7 +17,7 @@ days:
       - name: Oral 1 Ultrasound Imaging
         time_start: '9:45'
         time_end: '10:45'
-      - name: Pitch 1 - Ultrasound and Optical Imaging
+      - name: Pitch 1 Ultrasound and Optical Imaging
         time_start: '10:45'
         time_end: '11:15'
       - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 1 & 2 presenting), Lunch Pickup
