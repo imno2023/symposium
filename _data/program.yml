@@ -66,7 +66,7 @@ days:
       - name: Oral 2 Neuroimaging I
         time_start: '9:45'
         time_end: '10:45'
-      - name: Neuroimaging
+      - name: Pitch 2 Neuroimaging
         time_start: '10:45'
         time_end: '11:15'
       - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 1 & 2 presenting), Lunch Pickup
