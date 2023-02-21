@@ -1,7 +1,7 @@
 ---
-name: Oral 3
+name: Oral 3 Hyperpolarized MR Imaging
 speakers:
-  - Oral 3 Hyperpolarized MR Imaging
+  - TBA
 categories:
   - Cat A
   - Opener
