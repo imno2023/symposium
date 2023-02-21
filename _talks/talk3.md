@@ -1,9 +1,9 @@
 ---
 name: Coffee Break
 speakers:
-  - 
+  - -
 categories:
-  - Cat A
+  - Cat E
   - Break
 ---
 
