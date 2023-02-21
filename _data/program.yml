@@ -50,6 +50,9 @@ days:
       - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 1 & 2 presenting), Lunch Pickup
         time_start: '11:15'
         time_end: '11:45:'
+      - name: Oral 4 Image Guidance
+        time_start: '13:00'
+        time_end: '14:00:'
       - name: Reception and ImNO Jeopardy
         time_start: '17:00'
         time_end: '18:30'
