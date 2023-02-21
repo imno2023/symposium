@@ -4,6 +4,6 @@ speakers:
   - TBA
 categories:
   - Cat A
-  - Opener
+  - Oral
 hide: true
 ---
