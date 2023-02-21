@@ -29,6 +29,12 @@ days:
       - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 3 & 4 presenting), Coffee Break
         time_start: '14:30'
         time_end: '15:00'
+      - name: Oral 5 Hardware Development
+        time_start: '15:00'
+        time_end: '16:00'
+      - name: Pitch 5 Image Processing and Machine Learning
+        time_start: '16:00'
+        time_end: '16:30'
       - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 5 & 6 presenting)
         time_start: '16:30'
         time_end: '17:00'
@@ -53,6 +59,9 @@ days:
       - name: Oral 4 Image Guidance
         time_start: '13:00'
         time_end: '14:00:'
+      - name: Pitch 6 MR Imaging
+        time_start: '16:00'
+        time_end: '16:30'
       - name: Reception and ImNO Jeopardy
         time_start: '17:00'
         time_end: '18:30'
