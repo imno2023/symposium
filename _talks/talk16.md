@@ -1,5 +1,5 @@
 ---
-name: Oral 6 MR imaging
+name: Oral 6 MR Imaging
 speakers:
   - TBA
 categories:
