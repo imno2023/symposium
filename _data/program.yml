@@ -32,6 +32,9 @@ days:
       - name: Oral 3 Hyperpolarized MR Imaging
         time_start: '13:00'
         time_end: '14:00'
+      - name: Pitch 3 Hyperpolarized MR and Lung Imaging
+        time_start: '14:00'
+        time_end: '14:30'
       - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 3 & 4 presenting), Coffee Break
         time_start: '14:30'
         time_end: '15:00'
