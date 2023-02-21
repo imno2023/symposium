@@ -93,6 +93,9 @@ days:
       - name: Pitch 6 MR Imaging
         time_start: '16:00'
         time_end: '16:30'
+      - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 5 & 6 presenting)
+        time_start: '16:30'
+        time_end: '17:00'
       - name: Reception and ImNO Jeopardy
         time_start: '17:00'
         time_end: '18:30'
