@@ -3,7 +3,7 @@ name: Panel Session — How Can Medical Imaging Contribute to Solving the Canadi
 speakers:
   - TBA
 categories:
-  - Cat D
+  - Cat F
   - Panel
 hide: true
 ---
