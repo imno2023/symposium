@@ -1,10 +1,10 @@
 ---
-name: Meet and Greet
+name: Meet-and-Greet, Poster Viewing (Pitch Sessions 1 & 2 presenting), Lunch Pickup
 speakers:
-  - Meet and Greet
+  - TBA
 categories:
   - Cat B
-  - Meet & Greet
+  - Meet & Greet, Lunch
 ---
 
 Meet and Greet 1
