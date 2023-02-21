@@ -1,7 +1,7 @@
 ---
 name: Oral 5 Hardware Development
 speakers:
-  - Oral 5 Hardware Development
+  - TBA
 categories:
   - Cat A
   - Opener
