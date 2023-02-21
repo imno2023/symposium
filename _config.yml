@@ -152,13 +152,13 @@ conference:
       - name: Cat C
         color: warning
       - name: Cat D
-        color: alert
+        color: light
       - name: Cat E
         color: dark
       - name: Cat F
         color: primary
       - name: Cat G
-        color: secondary
+        color: alert
         
 
     # Hide icons on talk overview page
