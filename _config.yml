@@ -155,9 +155,9 @@ conference:
         color: alert
       - name: Cat E
         color: dark
-      - name: Cat E
+      - name: Cat F
         color: primary
-      - name: Cat E
+      - name: Cat G
         color: secondary
         
 
