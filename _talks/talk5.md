@@ -1,9 +1,9 @@
 ---
 name: Meet-and-Greet, Poster Viewing (Pitch Sessions 1 & 2 presenting), Lunch Pickup
 speakers:
-  - TBA
+  - -
 categories:
-  - Cat B
+  - Cat C
   - Lunch Pickup
 ---
 
