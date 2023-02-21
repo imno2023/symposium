@@ -1,7 +1,7 @@
 ---
-name: Oral 3
+name: Oral 5 Hardware Development
 speakers:
-  - Oral 3 Hyperpolarized MR Imaging
+  - Oral 5 Hardware Development
 categories:
   - Cat A
   - Opener
