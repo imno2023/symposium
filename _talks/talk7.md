@@ -1,7 +1,7 @@
 ---
-name: Meet-and-Greet, Poster Viewing (Pitch Sessions 3 & 4 presenting)
+name: Meet-and-Greet, Poster Viewing (Pitch Sessions 3 & 4 presenting), Coffee Break
 speakers:
-  - Coffee Break
+  - Meet-and-Greet, Poster Viewing (Pitch Sessions 3 & 4 presenting), Coffee Break
 categories:
   - Cat C
   - Meet & Greet, Break
