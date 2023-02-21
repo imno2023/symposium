@@ -1,5 +1,5 @@
 ---
-name: Pitch 6 MR imaging
+name: Pitch 6 MR Imaging
 speakers:
   - TBA
 categories:
