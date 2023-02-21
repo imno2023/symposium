@@ -3,7 +3,7 @@ name: Oral 1 Ultrasound Imaging
 speakers:
   - TBA
 categories:
-  - Cat B
+  - Cat A
   - Oral
 ---
 
