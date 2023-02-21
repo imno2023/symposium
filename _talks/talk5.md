@@ -4,7 +4,7 @@ speakers:
   - TBA
 categories:
   - Cat B
-  - Meet & Greet, Lunch
+  - Lunch Pickup
 ---
 
 Meet and Greet 1
