@@ -1,5 +1,5 @@
 ---
-name: Neuroimaging
+name: Pitch 2 Neuroimaging
 speakers:
   - TBA
 categories:
