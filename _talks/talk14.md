@@ -4,6 +4,6 @@ speakers:
   - TBA
 categories:
   - Oral
-  - Oral
+  - Cat A
 ---
 
