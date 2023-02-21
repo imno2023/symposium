@@ -3,7 +3,7 @@ name: Coffee Break
 speakers:
   - -
 categories:
-  - Cat E
+  - Cat D
   - Break
 ---
 
