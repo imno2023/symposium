@@ -4,6 +4,6 @@ speakers:
   - TBA
 categories:
   - Cat B
-  - Pitch 2
+  - Pitch
 ---
 
