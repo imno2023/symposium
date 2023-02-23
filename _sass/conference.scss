@@ -165,7 +165,7 @@ main.container img {
   background-color: theme-color-level('primary', $alert-bg-level);
   color: var(--dark);
 }
-map {
+#map {
   height: 50vh;
   min-height: 400px;
   width: 100%;
