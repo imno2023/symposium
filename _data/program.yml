@@ -104,9 +104,42 @@ days:
   rooms:
   - name: Ballroom Centre
     talks:
+      - name: Oral - Cancer Imaging
+        time_start: '8:35'
+        time_end: '9:35'
+      - name: Pitch - Cancer Imaging
+        time_start: '9:35'
+        time_end: '10:05'
+      - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 7 & 8 presenting)
+        time_start: '10:05'
+        time_end: '10:35'
+      - name: Oral - MR and Magnetic Particle Imaging
+        time_start: '10:35'
+        time_end: '11:35'
+      - name: Pitch - Contrast Agents and Radiopharmaceuticals
+        time_start: '11:35'
+        time_end: '12:05'
+      - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 9 & 10 presenting)
+        time_start: '12:05'
+        time_end: '12:35'
       - name: Siemens Innovation Think Tank Presentations
         time_start: '12:35'
         time_end: '13:35'
+      - name: Coffee Break
+        time_start: '13:35'
+        time_end: '13:50'
+      - name: Oral - Deep Learning
+        time_start: '13:50'
+        time_end: '14:50'
+      - name: Pitch - Deep Learning
+        time_start: '14:50'
+        time_end: '15:20'
+      - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 11 & 12 presenting)
+        time_start: '15:20'
+        time_end: '15:50'
+      - name: Keynote Session II - Embracing Failure
+        time_start: '15:50'
+        time_end: '16:35'
   - name: Ballroom East
     talks:
       - name: Siemens Innovation Think Tank Presentations
