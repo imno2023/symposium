@@ -104,6 +104,9 @@ days:
   rooms:
   - name: Ballroom Centre
     talks:
+      - name: Opening Remarks
+        time_start: '8:30'
+        time_end: '8:45'
       - name: Oral - Cancer Imaging
         time_start: '8:35'
         time_end: '9:35'
@@ -145,6 +148,9 @@ days:
         time_end: '17:00'
   - name: Ballroom East
     talks:
+      - name: Opening Remarks
+        time_start: '8:30'
+        time_end: '8:45'
       - name: Oral - Cardiac and Lung Imaging
         time_start: '8:35'
         time_end: '9:35'
