@@ -3,7 +3,7 @@ name: Closing and Awards
 speakers:
   - -
 categories:
-  - Cat D
+  - Cat E
   - Awards
 ---
 
