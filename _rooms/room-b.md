@@ -1,4 +1,4 @@
 ---
-name: Room B
+name:   
 hide: true
 ---
