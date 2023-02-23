@@ -140,7 +140,7 @@ conference:
     #   - Hydda.Full
     #   - Thunderforest.Neighbourhood
     #   - Esri.WorldTopoMap
-    map_provider: "OpenStreetMap.Mapnik"
+    map_provider: "MapTilesAPI.OSMEnglish"
     default_zoom: 7
 
   talks:
