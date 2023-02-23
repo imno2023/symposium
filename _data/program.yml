@@ -104,6 +104,9 @@ days:
   rooms:
   - name: Ballroom Centre
     talks:
+      - name: Opening Remarks
+        time_start: '8:35'
+        time_end: '9:35'
       - name: Oral - Cancer Imaging
         time_start: '8:35'
         time_end: '9:35'
