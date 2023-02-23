@@ -134,7 +134,7 @@ conference:
 
   map:
     # Initial map center point
-    home_coord: 42.9845, -81.2431
+    home_coord: 42.98451, -81.24311
     # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
     # The following do match the Bootstrap design not too badly:
     #   - Hydda.Full
