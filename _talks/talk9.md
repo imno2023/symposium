@@ -1,7 +1,7 @@
 ---
 name: Oral 4 Image Guidance
 speakers:
-  - TBA
+  - Chairs: Aneesh Dhar and Miriam Hewlett
 categories:
   - Cat A
   - Oral
