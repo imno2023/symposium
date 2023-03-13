@@ -1,7 +1,7 @@
 ---
 name: Oral 5 Hardware Development
 speakers:
-  - TBA
+  - Chairs: Sarah Aubert and Ali Tavallaei
 categories:
   - Cat A
   - Oral
