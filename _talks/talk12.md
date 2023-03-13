@@ -1,7 +1,7 @@
 ---
 name: Pitch 1 Ultrasound and Optical Imaging
 speakers:
-  - TBA
+  - Chairs: Kalysta Makimoto and Karen Yeates
 categories:
   - Cat B
   - Pitch
