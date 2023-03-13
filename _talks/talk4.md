@@ -1,7 +1,7 @@
 ---
 name: Pitch 2 Neuroimaging
 speakers:
-  - TBA
+  - Chairs: Farah Kamar and Benjamin Wilk
 categories:
   - Cat B
   - Pitch
