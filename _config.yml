@@ -105,7 +105,7 @@ conference:
   # Information boxes
   info_bars:
     - title: Welcome to the Imaging Network Ontario 2023 Symposium!
-      color: primary
+      color: success
       main_only: true
       text: |
         Take a look at the Program for the [21st Annual ImNO Symposium](https://charlesycx.github.io/ImNO/program/), a yearly conference by [Imaging Network Ontario](https://www.imno.ca/).
