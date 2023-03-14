@@ -1,14 +1,11 @@
 ---
 layout: home
 ---
-Welcome to ImNO Symposium 2023!
+Welcome to the ImNO Symposium 2023!
 
-23-24 March 2023
+On March 23rd and 24th!
+
 DoubleTree by Hilton, London Ontario
 
-See you soon!
+See you there!
 
-conference:
-  main:
-    logo:
-      img: "ImNO_banner.jpeg"
