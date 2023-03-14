@@ -1,7 +1,7 @@
 title: Imaging Network Ontario
 preposition: ''
 description: >-
-  Conference of ImNO in March in London, Ontario
+  Conference of ImNO in March 2023 (London, Ontario)
 baseurl: "/ImNO" # the subpath of your site, e.g. /blog
 url: "https://charlesycx.github.io/ImNO/" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -70,8 +70,8 @@ conference:
       
       #- name: Speakers
         #relative_url: /speakers/
-      - name: Location
-        relative_url: /location/
+      #- name: Location
+        #relative_url: /location/
       #- name: Previous Editions
         #menu:
           #- name: 2020 (current)
@@ -104,15 +104,15 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Welcome to Imaging Network Ontario 2023 Symposium!
+    - title: Welcome to the Imaging Network Ontario 2023 Symposium!
       color: primary
       main_only: true
       text: |
-        Take a look at the Program for the [21st Annual ImNO Symposium](https://www.imno.ca/sites/default/files/ImNO%202023%20Detailed%20Program%20-%202023.02.10.pdf), a yearly conference by [Imaging Network Ontario](https://www.imno.ca/).
+        Take a look at the Program for the [21st Annual ImNO Symposium](https://charlesycx.github.io/ImNO/program/), a yearly conference by [Imaging Network Ontario](https://www.imno.ca/).
 
         ---
 
-        See the [Program](https://charlesycx.github.io/ImNO/program/) section for more information.
+        See the [Program](https://www.imno.ca/sites/default/files/ImNO%202023%20Detailed%20Program%20-%202023.02.10.pdf) section for more detailed information.
     - text: ImNO Symposium 2023 (Thursday March 23 to Friday March 24)
       color: warning
       pages_only: true
