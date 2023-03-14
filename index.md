@@ -8,8 +8,7 @@ Taking place on Thursday March 23rd and Friday March 24th!
 Location: DoubleTree by Hilton, London Ontario
 
 Program Highlights:
-- 2 technical Keynote Sessions
-- Panel Session 
+- 2 Keynote Sessions and 1 Panel Session 
 - 48 Oral Talks
 - 110 Pitches
 - Social events including Reception and ImNO Jeopardy!
