@@ -92,7 +92,7 @@ conference:
   # Main landing page
   main:
     logo:
-      - img: 'ImNO_banner.jpeg'
+      img: 'ImNO_banner.jpeg'
     links:
       - name: Program
         relative_url: /program/
