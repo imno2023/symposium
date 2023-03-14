@@ -8,4 +8,3 @@ categories:
   - Keynote
 ---
 
-Keynote Session 1
