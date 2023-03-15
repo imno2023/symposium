@@ -112,13 +112,13 @@ conference:
 
         ---
 
-        See the [Program](https://charlesycx.github.io/ImNO/program/) page for the conference information! (A PDF is also available for the [detailed schedules](https://www.imno.ca/sites/default/files/ImNO%202023%20Detailed%20Program%20-%202023.02.10.pdf))
+        See the [Program](https://charlesycx.github.io/ImNO/program/) page for the conference information! (A PDF is also available for the [detailed schedules](https://drive.google.com/file/d/17moQ-TEv1JdqhypXehrTIVfQdojS0-QV/view?usp=sharing))
     - text: |
         ImNO Symposium 2023 (Thursday March 23 to Friday March 24)
-    
+    #https://www.imno.ca/sites/default/files/ImNO%202023%20Detailed%20Program%20-%202023.02.10.pdf
         ---
 
-        (A PDF is available for more [detailed schedules](https://www.imno.ca/sites/default/files/ImNO%202023%20Detailed%20Program%20-%202023.02.10.pdf))
+        (A PDF is available for more [detailed schedules](https://drive.google.com/file/d/17moQ-TEv1JdqhypXehrTIVfQdojS0-QV/view?usp=sharing))
       color: success
       pages_only: true
 
