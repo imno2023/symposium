@@ -5,7 +5,7 @@ speakers:
 categories:
   - Cat A
   - Oral
-hide: true
+
 ---
 Oral 3 features: _**4 presentations on Hyperpolarized MR Imaging**_
 
