@@ -7,29 +7,38 @@ categories:
   - Oral 10
 ---
 
-Chairs: Joeana Cambranis and Gabor Fichtinger
+Oral 4 features: _**4 presentations on Image Guidance**_
 
-O10-1: Monitoring Cerebral Oxygenation and
+**Chairs: Joeana Cambranis and Gabor Fichtinger**
+
+_____________________________________________________
+
+**O10-1: Monitoring Cerebral Oxygenation and
 Metabolism with Time-Resolved Compressive Sensing
-Spectroscopy
+Spectroscopy**
 
 Natalie Li, Western University
 
-O10-2: A Photothermal Therapy Guidance Platform Based
+_____________________________________________________
+
+**O10-2: A Photothermal Therapy Guidance Platform Based
 on Photoacoustic Thermometry, Diffuse Optical
-Tomography, and Nanotechnology
+Tomography, and Nanotechnology**
 
 Ivan Kosik, University Health Network
 
+_____________________________________________________
 
-O10-3: Assessing the Sensitivity of a Full-Head Coverage
+**O10-3: Assessing the Sensitivity of a Full-Head Coverage
 Near-Infrared Spectroscopy Device (NIRS) to Regional
-Cerebral Oxygenation Changes
+Cerebral Oxygenation Changes**
 
 Farah Kamar, Western University
 
-O10-4: Three-Dimensional Automated Breast Ultrasound
+_____________________________________________________
+
+**O10-4: Three-Dimensional Automated Breast Ultrasound
 (ABUS) System Toward Point-of-care Breast Cancer
-Screening
+Screening**
 
 Claire Park, Robarts Research Institute
