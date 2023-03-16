@@ -115,9 +115,9 @@ days:
         time_end: '8:15'
       - name: Opening Remarks
         time_start: '8:15'
-        time_end: '8:35'
+        time_end: '8:30'
       - name: Oral - Cancer Imaging
-        time_start: '8:35'
+        time_start: '8:30'
         time_end: '9:35'
       - name: Pitch - Cancer Imaging
         time_start: '9:35'
@@ -162,9 +162,9 @@ days:
         time_end: '8:15'
       - name: Opening Remarks
         time_start: '8:15'
-        time_end: '8:35'
+        time_end: '8:30'
       - name: Oral - Cardiac and Lung Imaging
-        time_start: '8:35'
+        time_start: '8:30'
         time_end: '9:35'
       - name: Pitch - Musculoskeletal and Vascular Imaging
         time_start: '9:35'
