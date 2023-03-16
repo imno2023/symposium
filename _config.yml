@@ -108,11 +108,11 @@ conference:
       color: info
       main_only: true
       text: |
-        Check out the Program of the [21st Annual ImNO Symposium](https://charlesycx.github.io/ImNO/program/), a yearly conference by [Imaging Network Ontario](https://www.imno.ca/).
+        Welcome to the 21st Annual ImNO Symposium! (A yearly conference hosted by [Imaging Network Ontario](https://www.imno.ca/))
 
         ---
 
-        See the [Program](https://charlesycx.github.io/ImNO/program/) page for the conference information! (A PDF is also available for the [detailed schedules](https://drive.google.com/file/d/17moQ-TEv1JdqhypXehrTIVfQdojS0-QV/view?usp=sharing))
+        See the [Program](https://charlesycx.github.io/ImNO/program/) page for the conference information!
     - text: |
         ImNO Symposium 2023 (Thursday March 23 to Friday March 24)
         
