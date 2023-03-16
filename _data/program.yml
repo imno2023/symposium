@@ -5,6 +5,9 @@ days:
   rooms:
   - name: Ballroom Centre
     talks:
+      - name: Filler
+        time_start: '8:00'
+        time_end: '8:30'
       - name: Opening Remarks
         time_start: '8:30'
         time_end: '8:45'
@@ -52,6 +55,9 @@ days:
         time_end: '18:30'
   - name: Ballroom East
     talks:
+      - name: Filler
+        time_start: '8:00'
+        time_end: '8:30'
       - name: Opening Remarks
         time_start: '8:30'
         time_end: '8:45'
