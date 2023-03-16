@@ -7,29 +7,38 @@ categories:
   - Oral 12
 ---
 
+Oral 12 features: _**4 presentations on Neuroimaging (Part II)**_
 
+**Chairs: Maryam Mozaffari and Jill Weyers**
 
-Chairs: Maryam Mozaffari and Jill Weyers
+_____________________________________________________
 
-O12-1: Development of a Brain-Penetrating PET
-Radiotracer for Imaging 4R-Tauopathies
+**O12-1: Development of a Brain-Penetrating PET
+Radiotracer for Imaging 4R-Tauopathies**
 
-Anton Lindberg, Centre for Addiction and Mental Health
+Speaker - Anton Lindberg, Centre for Addiction and Mental Health
 
-O12-2: Multiphase CT Angiography-based Prediction of
+_____________________________________________________
+
+**O12-2: Multiphase CT Angiography-based Prediction of
 Favourable Infarct-Penumbra Mismatch for Acute
-Ischemic Stroke Treatment Triage
+Ischemic Stroke Treatment Triage**
 
-Ting-Yim Lee, Robarts Research Institute
+Speaker - Ting-Yim Lee, Robarts Research Institute
 
-O12-3: Choline Changes in the Primary Motor Cortex of
+_____________________________________________________
+
+**O12-3: Choline Changes in the Primary Motor Cortex of
 People with Mild Cognitive Impairment are Predicted by
-Dual Task Gait Performance
+Dual Task Gait Performance**
 
-Jack Elkas, Western University
+Speaker - Jack Elkas, Western University
 
-O12-4: Metabolite Abnormalities in Epilepsy Patients
+_____________________________________________________
+
+**O12-4: Metabolite Abnormalities in Epilepsy Patients
 with Malformations of Cortical Development Observed
-with 3T Magnetic Resonance Spectroscopy
+with 3T Magnetic Resonance Spectroscopy**
 
-Pierre Ibrahim, Robarts Research Institute
+Speaker - Pierre Ibrahim, Robarts Research Institute
+
