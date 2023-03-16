@@ -7,7 +7,7 @@ categories:
   - Oral 10
 ---
 
-Oral 4 features: _**4 presentations on Image Guidance**_
+Oral 10 features: _**4 presentations on Image Guidance**_
 
 **Chairs: Joeana Cambranis and Gabor Fichtinger**
 
