@@ -110,11 +110,14 @@ days:
   rooms:
   - name: Ballroom Centre
     talks:
+      - name: Filler2
+        time_start: '8:00'
+        time_end: '8:30'
       - name: Oral 7 - Cancer Imaging
         time_start: '8:30'
-        time_end: '9:35'
+        time_end: '9:30'
       - name: Pitch 7 - Cancer Imaging
-        time_start: '9:35'
+        time_start: '9:30'
         time_end: '10:05'
       - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 7 & 8 presenting)
         time_start: '10:05'
@@ -151,11 +154,14 @@ days:
         time_end: '17:00'
   - name: Ballroom East
     talks:
+      - name: Filler2
+        time_start: '8:00'
+        time_end: '8:30'
       - name: Oral 8 - Cardiac and Lung Imaging
         time_start: '8:30'
-        time_end: '9:35'
+        time_end: '9:30'
       - name: Pitch 8 - Musculoskeletal and Vascular Imaging
-        time_start: '9:35'
+        time_start: '9:30'
         time_end: '10:05'
       - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 7 & 8 presenting)
         time_start: '10:05'
