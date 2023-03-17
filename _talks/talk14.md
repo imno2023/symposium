@@ -7,8 +7,6 @@ categories:
   - Oral
 ---
 
-Oral 2 features: _**4 presentations on Neuroimaging (Part I)**_
-
 **Chairs: Dana Broberg and Lucas Narciso**
 
 _____________________________________________________
