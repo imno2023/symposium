@@ -131,7 +131,7 @@ days:
       - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 9 & 10 presenting)
         time_start: '12:05'
         time_end: '12:35'
-      - name: Siemens Innovation Think Tank Presentations
+      - name: Siemens Innovation Think Tank Presentations on Cost Containment for Healthcare Systems and Clinical Translation
         time_start: '12:35'
         time_end: '13:35'
       - name: Coffee Break
@@ -175,7 +175,7 @@ days:
       - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 9 & 10 presenting)
         time_start: '12:05'
         time_end: '12:35'
-      - name: Siemens Innovation Think Tank Presentations
+      - name: Siemens Innovation Think Tank Presentations on Cost Containment for Healthcare Systems and Clinical Translation
         time_start: '12:35'
         time_end: '13:35'
       - name: Coffee Break
