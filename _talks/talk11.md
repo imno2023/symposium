@@ -8,7 +8,7 @@ categories:
 ---
 
 
-**Chairs: Chairs: Sarah Aubert and Ali Tavallaei**
+**Chairs: Sarah Aubert and Ali Tavallaei**
 
 _____________________________________________________
 
