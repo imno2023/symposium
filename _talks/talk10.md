@@ -7,7 +7,6 @@ categories:
   - Oral
 
 ---
-Oral 3 features: _**4 presentations on Hyperpolarized MR Imaging**_
 
 **Chairs: Fatemeh Rastegar Jooybari and Sarah Svenningsen**
 
