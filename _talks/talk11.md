@@ -8,8 +8,6 @@ categories:
 ---
 
 
-Oral 5 features: _**4 presentations on Hardware Development**_
-
 **Chairs: Chairs: Sarah Aubert and Ali Tavallaei**
 
 _____________________________________________________
