@@ -7,8 +7,6 @@ categories:
   - Pitch
 ---
 
-Pitch 1 features: _**8 presentations on Ultrasound and Optical Imaging**_
-
 **Chairs: Kalysta Makimoto and Karen Yeates**
 
 _____________________________________________________
