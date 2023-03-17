@@ -7,4 +7,6 @@ categories:
   - Break
 ---
 
+**Break**
+
 Relax, socialize, enjoy!
