@@ -7,7 +7,7 @@ categories:
   - Think Tank
 ---
 
-Innovation Think Tank! - Siemans Healthineers
+**Innovation Think Tank! - Siemans Healthineers**
 
 Presentations on:
 - Cost Containment for Healthcare Systems
