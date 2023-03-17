@@ -15,7 +15,7 @@ _____________________________________________________
 Metabolism with Time-Resolved Compressive Sensing
 Spectroscopy**
 
-Natalie Li, Western University
+Speaker - Natalie Li, Western University
 
 _____________________________________________________
 
@@ -23,7 +23,7 @@ _____________________________________________________
 on Photoacoustic Thermometry, Diffuse Optical
 Tomography, and Nanotechnology**
 
-Ivan Kosik, University Health Network
+Speaker - Ivan Kosik, University Health Network
 
 _____________________________________________________
 
@@ -31,7 +31,7 @@ _____________________________________________________
 Near-Infrared Spectroscopy Device (NIRS) to Regional
 Cerebral Oxygenation Changes**
 
-Farah Kamar, Western University
+Speaker - Farah Kamar, Western University
 
 _____________________________________________________
 
@@ -39,4 +39,4 @@ _____________________________________________________
 (ABUS) System Toward Point-of-care Breast Cancer
 Screening**
 
-Claire Park, Robarts Research Institute
+Speaker - Claire Park, Robarts Research Institute
