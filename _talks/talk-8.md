@@ -1,5 +1,5 @@
 ---
-name: Oral - Deep Learning
+name: Oral 11 - Deep Learning
 speakers:
   - -
 categories:
