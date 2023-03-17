@@ -104,7 +104,7 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Welcome to the Annual 21st Annual ImNO Symposium!
+    - title: Welcome to the 21st Annual ImNO Symposium!
       color: info
       main_only: true
       text: |
