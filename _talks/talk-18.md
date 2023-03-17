@@ -7,9 +7,6 @@ categories:
   - Pitch 12
 ---
 
-
-Pitch 12 features: _**9 presentations on Cellular and Molecular Image Guidance**_
-
 **Chairs: Amanda Hamilton and Maryam Mozaffari**
 
 _____________________________________________________
