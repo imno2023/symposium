@@ -17,7 +17,7 @@ Patrick Carnahan, Robarts Research Institute
 
 _____________________________________________________
 
-**O8-2: Accelerated 4D Flow MRI in Pediatric Patients with Congenital Heart Disease Using an Undersampled 3D Radial Acquisition, Double Golden Angle Sampling, and Compressed Sensing Reconstruction **
+**O8-2: Accelerated 4D Flow MRI in Pediatric Patients with Congenital Heart Disease Using an Undersampled 3D Radial Acquisition, Double Golden Angle Sampling, and Compressed Sensing Reconstruction**
 
 Fatemeh Rastegar Jooybari, University of Toronto 
 
