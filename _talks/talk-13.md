@@ -1,5 +1,5 @@
 ---
-name: Oral - Cardiac and Lung Imaging
+name: Oral 8 - Cardiac and Lung Imaging
 speakers:
   - -
 categories:
