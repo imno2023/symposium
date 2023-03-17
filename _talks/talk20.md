@@ -9,7 +9,7 @@ categories:
 
 **Chairs: Rasa Eskandari and Tamas Ungi**
 
-P4-1: Analysis of Cautery Trajectory for Evaluation of Resection Margins in Breast-Conserving Surgery
+**P4-1: Analysis of Cautery Trajectory for Evaluation of Resection Margins in Breast-Conserving Surgery**
 
 Chris Yeung, Queen's University 
 
@@ -21,7 +21,7 @@ Mahdi Tahmasebi, Toronto Metropolitan University
 
 Olivia Radcliffe, Queen's University 
 
-P4-4: Development and Evaluation of an Open-Source Virtual Reality C-Arm Simulator
+**P4-4: Development and Evaluation of an Open-Source Virtual Reality C-Arm Simulator**
 
 Daniel Allen, Western University 
 
