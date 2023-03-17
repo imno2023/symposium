@@ -1,5 +1,5 @@
 ---
-name: Pitch 5 Surgical Tool Detection in Open Hernia Repair Surgery Using Deep Neural Networks
+name: Pitch 5 Image Processing and Machine Learning
 speakers:
   - -
 categories:
