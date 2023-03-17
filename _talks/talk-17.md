@@ -1,5 +1,5 @@
 ---
-name: Oral - Neuroimaging II
+name: Oral 12 - Neuroimaging II
 speakers:
   - -
 categories:
