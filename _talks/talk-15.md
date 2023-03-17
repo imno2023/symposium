@@ -1,5 +1,5 @@
 ---
-name: Pitch - Device, Hardware, and Software Development
+name: Pitch 10 - Device, Hardware, and Software Development
 speakers:
   - -
 categories:
