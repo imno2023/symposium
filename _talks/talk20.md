@@ -7,7 +7,7 @@ categories:
   - Pitch
 ---
 
-**Chairs: Rasa Eskandari and Tamas Ungi **
+**Chairs: Rasa Eskandari and Tamas Ungi**
 
 P4-1: Analysis of Cautery Trajectory for Evaluation of Resection Margins in Breast-Conserving Surgery
 
