@@ -53,7 +53,7 @@ days:
       - name: Reception and ImNO Jeopardy
         time_start: '17:00'
         time_end: '19:00'
-      - name: .
+      - name:  
         time_start: '19:00'
         time_end: '19:45'
   - name: Ballroom East
@@ -106,7 +106,7 @@ days:
       - name: Reception and ImNO Jeopardy
         time_start: '17:00'
         time_end: '19:00'
-      - name: .
+      - name:  
         time_start: '19:00'
         time_end: '19:45'
         
@@ -116,7 +116,7 @@ days:
   rooms:
   - name: Ballroom Centre
     talks:
-      - name: .
+      - name:  
         time_start: '8:00'
         time_end: '8:30'
       - name: Oral 7 - Cancer Imaging
@@ -158,12 +158,12 @@ days:
       - name: Closing and Awards
         time_start: '16:35'
         time_end: '17:00'
-      - name: .
+      - name:  
         time_start: '17:00'
         time_end: '17:45'
   - name: Ballroom East
     talks:
-      - name: .
+      - name:  
         time_start: '8:00'
         time_end: '8:30'
       - name: Oral 8 - Cardiac and Lung Imaging
@@ -205,6 +205,6 @@ days:
       - name: Closing and Awards
         time_start: '16:35'
         time_end: '17:00'
-      - name: .
+      - name:  
         time_start: '17:00'
         time_end: '17:45'
