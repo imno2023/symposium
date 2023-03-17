@@ -13,54 +13,54 @@ _____________________________________________________
 
 **P4-1: Analysis of Cautery Trajectory for Evaluation of Resection Margins in Breast-Conserving Surgery**
 
-Chris Yeung, Queen's University 
+Speaker - Chris Yeung, Queen's University 
 
 _____________________________________________________
 
 **P4-2: The CathPilot: First Preclinical Safety and Feasibility Assessment**
 
-Mahdi Tahmasebi, Toronto Metropolitan University 
+Speaker - Mahdi Tahmasebi, Toronto Metropolitan University 
 
 _____________________________________________________
 
 **P4-3: Electromagnetic Navigation for Residual Tumor Localization in Breast-Conserving Surgery**
 
-Olivia Radcliffe, Queen's University 
+Speaker - Olivia Radcliffe, Queen's University 
 
 _____________________________________________________
 
 **P4-4: Development and Evaluation of an Open-Source Virtual Reality C-Arm Simulator**
 
-Daniel Allen, Western University 
+Speaker - Daniel Allen, Western University 
 
 _____________________________________________________
 
 **P4-5: Using Object Detection for Surgical Tool Recognition in Simulated Open Inguinal Hernia Repair Surgery**
 
-Rebecca Hisey, Queen's University 
+Speaker - Rebecca Hisey, Queen's University 
 
 _____________________________________________________
 
 **P4-6: Point-Of-Care Ultrasound Carotid Artery Volume Reconstruction Using Deep-Learning**
 
-Michellie Choi, Robarts Research Institute 
+Speaker - Michellie Choi, Robarts Research Institute 
 
 _____________________________________________________
 
 **P4-7: Evaluation of Tracked Optical Tissue Sensing for Tumor Bed Inspection**
 
-David Morton, Queen's University 
+Speaker - David Morton, Queen's University 
 
 _____________________________________________________
 
 **P4-8: Anthropomorphic Liver Phantom Development for Training and Validation of Surgical Navigation Systems**
 
-Joeana Cambranis Romero, Robarts Research Institute 
+Speaker - Joeana Cambranis Romero, Robarts Research Institute 
 
 _____________________________________________________
 
 **P4-9: The Development of an AI-based System for Training Percutaneous Nephrostomy in Senegal**
 
-Rebecca Hisey, Queen's University 
+Speaker - Rebecca Hisey, Queen's University 
 
 
