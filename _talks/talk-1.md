@@ -6,6 +6,7 @@ categories:
   - Cat F
   - Think Tank
 ---
+**Chairs: Elvis Chen and Farah Kamar**
 
 **Innovation Think Tank! - Siemans Healthineers**
 
