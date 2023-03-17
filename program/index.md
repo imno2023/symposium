@@ -8,4 +8,4 @@ layout: program
 
 - Friday, March 24 - starting 8:30am
 
-**Click on the Title of each program to view the talks and speakers!**
+**Click on the Title of each program to view the talk titles and speakers!**
