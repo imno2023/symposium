@@ -1,5 +1,5 @@
 ---
-name: Pitch - Contrast Agents and Radiopharmaceuticals
+name: Pitch 9 - Contrast Agents and Radiopharmaceuticals
 speakers:
   - -
 categories:
