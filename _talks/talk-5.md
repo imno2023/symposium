@@ -1,5 +1,5 @@
 ---
-name: Oral - MR and Magnetic Particle Imaging
+name: Oral 9 - MR and Magnetic Particle Imaging
 speakers:
   - -
 categories:
