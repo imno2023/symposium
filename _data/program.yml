@@ -55,7 +55,7 @@ days:
         time_end: '19:00'
       - name: .
         time_start: '19:00'
-        time_end: '20:00'
+        time_end: '19:45'
   - name: Ballroom East
     talks:
       - name: Filler
@@ -108,7 +108,7 @@ days:
         time_end: '19:00'
       - name: .
         time_start: '19:00'
-        time_end: '20:00'
+        time_end: '19:45'
         
 - name: Friday
   abbr: Fri
@@ -160,7 +160,7 @@ days:
         time_end: '17:00'
       - name: .
         time_start: '17:00'
-        time_end: '18:00'
+        time_end: '17:45'
   - name: Ballroom East
     talks:
       - name: .
@@ -207,4 +207,4 @@ days:
         time_end: '17:00'
       - name: .
         time_start: '17:00'
-        time_end: '18:00'
+        time_end: '17:45'
