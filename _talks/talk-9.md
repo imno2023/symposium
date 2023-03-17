@@ -1,5 +1,5 @@
 ---
-name: Pitch - Deep Learning
+name: Pitch 11 - Deep Learning
 speakers:
   - -
 categories:
