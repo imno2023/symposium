@@ -4,6 +4,10 @@ speakers:
   - -
 categories:
   - Cat C
-  - Coffee Break
+  - Poster Viewing
 ---
+
+- Meet‐and‐Greet
+- **Poster Viewing** (Pitch Sessions 9 & 10 presenting)
+- Lunch Pickup
 
