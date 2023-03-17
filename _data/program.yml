@@ -110,9 +110,6 @@ days:
   rooms:
   - name: Ballroom Centre
     talks:
-      - name: Filler
-        time_start: '8:00'
-        time_end: '8:30'
       - name: Oral 7 - Cancer Imaging
         time_start: '8:30'
         time_end: '9:35'
@@ -154,9 +151,6 @@ days:
         time_end: '17:00'
   - name: Ballroom East
     talks:
-      - name: Filler
-        time_start: '8:00'
-        time_end: '8:30'
       - name: Oral 8 - Cardiac and Lung Imaging
         time_start: '8:30'
         time_end: '9:35'
