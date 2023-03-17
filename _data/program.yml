@@ -53,6 +53,9 @@ days:
       - name: Reception and ImNO Jeopardy
         time_start: '17:00'
         time_end: '19:00'
+      - name: Filler
+        time_start: '19:00'
+        time_end: '20:00'
   - name: Ballroom East
     talks:
       - name: Filler
@@ -103,6 +106,9 @@ days:
       - name: Reception and ImNO Jeopardy
         time_start: '17:00'
         time_end: '19:00'
+      - name: Filler
+        time_start: '19:00'
+        time_end: '20:00'
         
 - name: Friday
   abbr: Fri
@@ -152,6 +158,9 @@ days:
       - name: Closing and Awards
         time_start: '16:35'
         time_end: '17:00'
+      - name: Filler2
+        time_start: '17:00'
+        time_end: '18:00'
   - name: Ballroom East
     talks:
       - name: Filler2
@@ -196,3 +205,6 @@ days:
       - name: Closing and Awards
         time_start: '16:35'
         time_end: '17:00'
+      - name: Filler2
+        time_start: '17:00'
+        time_end: '18:00'
