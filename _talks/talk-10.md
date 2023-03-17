@@ -4,6 +4,6 @@ speakers:
   - -
 categories:
   - Cat C
-  - Coffee Break
+  - Poster
 ---
 
