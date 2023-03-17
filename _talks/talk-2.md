@@ -1,5 +1,5 @@
 ---
-name: Oral - Cancer Imaging
+name: Oral 7 - Cancer Imaging
 speakers:
   - -
 categories:
