@@ -104,11 +104,11 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Welcome to the Imaging Network Ontario 2023 Symposium!
+    - title: Welcome to the Annual 21st Annual ImNO Symposium!
       color: info
       main_only: true
       text: |
-        Welcome to the 21st Annual ImNO Symposium! (A yearly conference hosted by [Imaging Network Ontario](https://www.imno.ca/))
+        (A yearly conference hosted by [Imaging Network Ontario](https://www.imno.ca/))
 
         ---
 
