@@ -7,8 +7,6 @@ categories:
   - Oral
 ---
 
-Oral 1 features: _**4 presentations on Ultrasound Imaging**_
-
 **Chairs: Kalysta Makimoto and Daniel Milej**
 
 _____________________________________________________
