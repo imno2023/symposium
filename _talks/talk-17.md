@@ -7,8 +7,6 @@ categories:
   - Oral 12
 ---
 
-Oral 12 features: _**4 presentations on Neuroimaging (Part II)**_
-
 **Chairs: Maryam Mozaffari and Jill Weyers**
 
 _____________________________________________________
