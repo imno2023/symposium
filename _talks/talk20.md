@@ -1,5 +1,5 @@
 ---
-name: Pitch 4 Surgical Tool Detection in Open Hernia Repair Surgery Using Deep Neural Networks
+name: Pitch 4 Image Guidance
 speakers:
   - -
 categories:
@@ -35,7 +35,7 @@ Speaker - Daniel Allen, Western University
 
 _____________________________________________________
 
-**P4-5: Using Object Detection for Surgical Tool Recognition in Simulated Open Inguinal Hernia Repair Surgery**
+**P4-5: Surgical Tool Detection in Open Hernia Repair Surgery Using Deep Neural Networks**
 
 Speaker - Rebecca Hisey, Queen's University 
 
