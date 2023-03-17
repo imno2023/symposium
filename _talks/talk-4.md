@@ -4,6 +4,11 @@ speakers:
   - -
 categories:
   - Cat C
-  - Coffee Break
+  - Poster
 ---
 
+**Ballroom West**
+
+- Meet-and-Greet 
+- **Poster Viewing** (Pitch Sessions 7 & 8 presenting) 
+- Coffee Break 
