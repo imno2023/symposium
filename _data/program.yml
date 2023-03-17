@@ -44,7 +44,7 @@ days:
       - name: Oral 5 Hardware Development
         time_start: '15:00'
         time_end: '16:00'
-      - name: Pitch 5 Image Processing and Machine Learning
+      - name: Pitch 5 Surgical Tool Detection in Open Hernia Repair Surgery Using Deep Neural Networks
         time_start: '16:00'
         time_end: '16:30'
       - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 5 & 6 presenting)
@@ -85,7 +85,7 @@ days:
       - name: Oral 4 Image Guidance
         time_start: '13:00'
         time_end: '14:00:'
-      - name: Pitch 4 Image Guidance
+      - name: Pitch 4 Surgical Tool Detection in Open Hernia Repair Surgery Using Deep Neural Networks
         time_start: '14:00'
         time_end: '14:30:'
       - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 3 & 4 presenting), Coffee Break
