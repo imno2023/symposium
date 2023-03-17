@@ -7,11 +7,7 @@ categories:
   - Pitch
 ---
 
-Pitch 2 features: _**9 presentations on Neuroimaging**_
-
 **Chairs: Farah Kamar and Benjamin Wilk**
-
-_10:45 - 11:15 am_
 
 _____________________________________________________
 
