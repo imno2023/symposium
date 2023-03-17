@@ -113,19 +113,19 @@ days:
       - name: Filler
         time_start: '8:00'
         time_end: '8:30'
-      - name: Oral - Cancer Imaging
+      - name: Oral 7 - Cancer Imaging
         time_start: '8:30'
         time_end: '9:35'
-      - name: Pitch - Cancer Imaging
+      - name: Pitch 7 - Cancer Imaging
         time_start: '9:35'
         time_end: '10:05'
       - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 7 & 8 presenting)
         time_start: '10:05'
         time_end: '10:35'
-      - name: Oral - MR and Magnetic Particle Imaging
+      - name: Oral 9 - MR and Magnetic Particle Imaging
         time_start: '10:35'
         time_end: '11:35'
-      - name: Pitch - Contrast Agents and Radiopharmaceuticals
+      - name: Pitch 9 - Contrast Agents and Radiopharmaceuticals
         time_start: '11:35'
         time_end: '12:05'
       - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 9 & 10 presenting)
@@ -137,10 +137,10 @@ days:
       - name: Coffee Break
         time_start: '13:35'
         time_end: '13:50'
-      - name: Oral - Deep Learning
+      - name: Oral 11 - Deep Learning
         time_start: '13:50'
         time_end: '14:50'
-      - name: Pitch - Deep Learning
+      - name: Pitch 11 - Deep Learning
         time_start: '14:50'
         time_end: '15:20'
       - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 11 & 12 presenting)
@@ -157,19 +157,19 @@ days:
       - name: Filler
         time_start: '8:00'
         time_end: '8:30'
-      - name: Oral - Cardiac and Lung Imaging
+      - name: Oral 8 - Cardiac and Lung Imaging
         time_start: '8:30'
         time_end: '9:35'
-      - name: Pitch - Musculoskeletal and Vascular Imaging
+      - name: Pitch 8 - Musculoskeletal and Vascular Imaging
         time_start: '9:35'
         time_end: '10:05'
       - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 7 & 8 presenting)
         time_start: '10:05'
         time_end: '10:35'
-      - name: Oral - Device Development
+      - name: Oral 10 - Device Development
         time_start: '10:35'
         time_end: '11:35'
-      - name: Pitch - Device, Hardware, and Software Development
+      - name: Pitch 10 - Device, Hardware, and Software Development
         time_start: '11:35'
         time_end: '12:05'
       - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 9 & 10 presenting)
@@ -181,10 +181,10 @@ days:
       - name: Coffee Break
         time_start: '13:35'
         time_end: '13:50'
-      - name: Oral - Neuroimaging II
+      - name: Oral 12 - Neuroimaging II
         time_start: '13:50'
         time_end: '14:50'
-      - name: Pitch - Cellular and Molecular Image Guidance
+      - name: Pitch 12 - Cellular and Molecular Image Guidance
         time_start: '14:50'
         time_end: '15:20'
       - name: Meet-and-Greet, Poster Viewing (Pitch Sessions 11 & 12 presenting)
