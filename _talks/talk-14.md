@@ -1,5 +1,5 @@
 ---
-name: Pitch - Musculoskeletal and Vascular Imaging
+name: Pitch 8 - Musculoskeletal and Vascular Imaging
 speakers:
   - -
 categories:
