@@ -10,5 +10,5 @@ categories:
 **Ballroom West**
 
 - Meet-and-Greet 
-- **Poster Viewing** (Pitch Sessions 3 & 4 presenting) 
+- **Poster Viewing** (Pitch Sessions 5 & 6 presenting) 
 - Coffee Break 
