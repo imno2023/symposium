@@ -7,15 +7,14 @@ categories:
   - Pitch
 ---
 
-Pitch 6 features: _**9 presentations on MR Imaging**_
-
-**Chairs: Heeseung Lim and ______**
+**Chairs: Sule Karagulleoglu Kunduraci and Heeseung Lim**
 
 _____________________________________________________
 
 **P6-1: Decoupling CEST Solute Exchange Rate from Pool Size**
 
 Speaker - Siddharth Sadanand, Toronto Metropolitan University
+
 _____________________________________________________
 
 **P6-2: Low-Heating B1+-Mapping of Subjects with Deep Brain Stimulation (DBS) Implants Using Optimized Radiofrequency (RF) Shimming Parallel Transmission (PTX)**
