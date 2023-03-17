@@ -1,5 +1,5 @@
 ---
-name: Pitch - Cancer Imaging
+name: Pitch 7 - Cancer Imaging
 speakers:
   - -
 categories:
