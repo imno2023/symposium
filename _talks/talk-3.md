@@ -7,8 +7,6 @@ categories:
   - Pitch 7
 ---
 
-Pitch 7 features: _**9 presentations on Cancer Imaging**_
-
 **Chairs: Sarah Mattonen and Elina Rascevska**
 
 _____________________________________________________
