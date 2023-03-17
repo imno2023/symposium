@@ -7,8 +7,6 @@ categories:
   - Oral
 ---
 
-Oral 4 features: _**4 presentations on Image Guidance**_
-
 **Chairs: Aneesh Dhar and Miriam Hewlett**
 
 _____________________________________________________
