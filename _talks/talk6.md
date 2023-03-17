@@ -8,9 +8,9 @@ categories:
 hide: false
 ---
 
-Panel Session - How Can Medical Imaging Contribute to Solving the Canadian Healthcare Crisis?
-
 **Chairs: Liam Lawrence and Terry Peters**
+
+Panel Session - How Can Medical Imaging Contribute to Solving the Canadian Healthcare Crisis?
 
 Speakers:
 
