@@ -4,7 +4,7 @@ speakers:
   - -
 categories:
   - Cat A
-  - Oral 12
+  - Oral
 ---
 
 **Chairs: Maryam Mozaffari and Jill Weyers**
