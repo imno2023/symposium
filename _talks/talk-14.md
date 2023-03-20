@@ -4,7 +4,7 @@ speakers:
   - -
 categories:
   - Cat B
-  - Pitch 8
+  - Pitch
 ---
 
 **Chairs: Emily Lalone and Elizabeth Norman**
