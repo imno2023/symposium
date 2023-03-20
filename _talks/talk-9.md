@@ -4,7 +4,7 @@ speakers:
   - -
 categories:
   - Cat B
-  - Pitch 11
+  - Pitch
 ---
 
 **Chairs: Ryan Au and Wenchao Han**
