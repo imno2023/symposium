@@ -4,7 +4,7 @@ speakers:
   - -
 categories:
   - Cat A
-  - Oral 8
+  - Oral
 ---
 
 **Chairs: Elizabeth Norman and Frank Prato**
