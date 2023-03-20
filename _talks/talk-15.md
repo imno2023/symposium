@@ -4,7 +4,7 @@ speakers:
   - -
 categories:
   - Cat B
-  - Pitch 10
+  - Pitch
 ---
 
 **Chairs: Michael Daly and Mohammad Khoobani**
