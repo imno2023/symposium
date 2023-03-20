@@ -2,7 +2,7 @@ title: Imaging Network Ontario
 preposition: ''
 description: >-
   Annual ImNO Symposium, March 2023 (London, Ontario)
-baseurl: "/ImNO" # the subpath of your site, e.g. /blog
+baseurl: "/symposium" # the subpath of your site, e.g. /blog
 url: "https://imno2023.github.io/symposium/" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
