@@ -178,7 +178,7 @@ conference:
         
 
     # Hide icons on talk overview page
-    hide_icons: false
+    hide_icons: true
 
   speakers:
     # Show first and last name
