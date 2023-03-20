@@ -4,7 +4,7 @@ speakers:
   - -
 categories:
   - Cat B
-  - Pitch 7
+  - Pitch
 ---
 
 **Chairs: Sarah Mattonen and Elina Rascevska**
