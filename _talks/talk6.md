@@ -14,8 +14,12 @@ Panel Session - How Can Medical Imaging Contribute to Solving the Canadian Healt
 
 Speakers:
 
-- Karen Yeates, Queen's University
+- Golafsoun (Goli) Ameri, Cosm Medical
+
+- Parvin Mousavi, Queen's University
 
 - John Rudan, Queen's University
 
-- Golafsoun (Goli) Ameri, Cosm Medical
+- Karen Yeates, Queen's University
+
+ 
