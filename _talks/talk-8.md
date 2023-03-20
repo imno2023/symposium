@@ -4,7 +4,7 @@ speakers:
   - -
 categories:
   - Cat A
-  - Oral 11
+  - Oral
 ---
 
 **Chairs: Ryan Au and Amir Moslemi**
