@@ -4,7 +4,7 @@ speakers:
   - -
 categories:
   - Cat B
-  - Pitch 12
+  - Pitch
 ---
 
 **Chairs: Amanda Hamilton and Maryam Mozaffari**
