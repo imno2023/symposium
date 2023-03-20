@@ -21,4 +21,4 @@ conference:
         color: alert
 
     # Hide icons on talk overview page
-    hide_icons: false
+    hide_icons: true
