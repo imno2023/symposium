@@ -4,7 +4,7 @@ speakers:
   - -
 categories:
   - Cat B
-  - Pitch 9
+  - Pitch
 ---
 
 **Chairs: Tricia Chinnery and Kelly Smart**
