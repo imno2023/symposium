@@ -4,7 +4,7 @@ speakers:
   - -
 categories:
   - Cat A
-  - Oral 10
+  - Oral
 ---
 
 **Chairs: Joeana Cambranis Romero and Gabor Fichtinger**
