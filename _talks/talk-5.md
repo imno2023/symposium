@@ -4,7 +4,7 @@ speakers:
   - -
 categories:
   - Cat A
-  - Oral 9
+  - Oral
 ---
 
 **Chairs: Alicia Cronin and John Ronald**
