@@ -4,7 +4,7 @@ speakers:
   - -
 categories:
   - Cat A
-  - Oral 7
+  - Oral
 ---
 
 **Chairs: Elina Rascevska and Timothy Scholl**
