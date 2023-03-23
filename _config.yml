@@ -123,8 +123,8 @@ conference:
       pages_only: true
 
   # Live indications
-  #live:
-    #date: 03.23.2023
+  live:
+    date: 01.01.2020
     #timezone: GMT-1
     #stop:       240  # in minutes
     #streaming:
