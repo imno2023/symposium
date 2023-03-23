@@ -125,7 +125,7 @@ conference:
   # Live indications
   live:
     date: 03.23.2023
-    timezone: EST
+    timezone: GMT-1
     stop:       240  # in minutes
     streaming:
       enable: true
