@@ -95,7 +95,7 @@ conference:
       img: 'ImNO_banner.jpeg'
     links:
       - name: Program
-        relative_url: /program/#thu
+        relative_url: /program/
       #- name: How to get there
         #relative_url: /location/
       #- name: Tickets
