@@ -64,7 +64,7 @@ conference:
       url: 'https://imno.ca/2023-symposium'
     links:
       - name: Program
-        relative_url: /program/#thu
+        relative_url: /program/
       #- name: Talks
         #relative_url: /talks/
       
@@ -112,7 +112,7 @@ conference:
 
         ---
 
-        See the [Program](https://imno2023.github.io/symposium/program/#thu) page for the conference information!
+        See the [Program](https://imno2023.github.io/symposium/program/) page for the conference information!
     - text: |
         ImNO Symposium 2023 (8:30am Thursday and Friday, March 23-24)
         
