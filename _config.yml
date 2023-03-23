@@ -124,8 +124,8 @@ conference:
 
   # Live indications
   live:
-    date: 01.01.2020
-    timezone: GMT+1
+    date: 03.23.2023
+    timezone: EST
     stop:       240  # in minutes
     streaming:
       enable: true
